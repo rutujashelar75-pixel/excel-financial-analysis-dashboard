@@ -22,7 +22,7 @@ An interactive Excel dashboard that analyzes 459 company records by market cap a
 - About 70% of Large Cap companies are in the High Sales category.
 
 ## Dataset
-[Write the source of your dataset here]
+"Kaggle: Indian Stocks Financial Data"
 
 ## Screenshot
 ![Dashboard](Financial_dashboard.png)
